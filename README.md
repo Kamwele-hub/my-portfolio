@@ -1,12 +1,55 @@
-# React + Vite
+# Stephen Kamwele - Portfolio Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my personal portfolio website! This project showcases my skills as a **Web Developer** and **AI Automation Specialist**, with live project demos, skills, and contact information.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Live Demo
+You can view the live website here: [Insert your deployed URL]
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 💻 Features
+- **Responsive Design**: Works beautifully on mobile, tablet, and desktop.
+- **Modern UI**: Built with React and Chakra UI for a clean, interactive interface.
+- **Project Showcase**: Highlights personal and professional projects.
+- **Skills Section**: Lists web development and AI automation skills.
+- **Contact Section**: Email and GitHub contact buttons.
+- **Dynamic Components**: Modular React components (Hero, Navbar, Projects, Contact, Footer).
+
+---
+
+## 🛠 Technologies Used
+- **Frontend**: React, JavaScript, HTML, CSS
+- **UI Framework**: Chakra UI
+- **Animation**: Framer Motion
+- **Icons**: Lucide React
+- **Automation Skills Highlighted**: Python scripts, Make.com, Zapier
+
+---
+
+## 📂 Project Structure
+my-portfolio/
+├─ node_modules/
+├─ public/
+├─ src/
+│ ├─ App.jsx
+│ ├─ main.jsx
+│ ├─ Hero.jsx
+│ ├─ Navbar.jsx
+│ ├─ Projects.jsx
+│ ├─ Contact.jsx
+│ ├─ Footer.jsx
+├─ package.json
+├─ vite.config.js
+└─ README.md
+
+
+---
+
+## ⚡ Getting Started
+
+1. **Clone the repo**
+```bash
+git clone https://github.com/Kamwele-hub/My-Portfolio.git
+cd My-Portfolio
